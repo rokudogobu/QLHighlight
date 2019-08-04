@@ -1,6 +1,7 @@
 .DS_Store
+.AppleDouble
 
-xcuserdata/
 project.xcworkspace/
 xcuserdata/
+
 build/
