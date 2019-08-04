@@ -7,3 +7,6 @@
 [submodule "subs/resetcss"]
 	path = subs/resetcss
 	url = https://gist.github.com/DavidWells/18e73022e723037a50d6
+[submodule "utils/tag2uti"]
+	path = utils/tag2uti
+	url = https://github.com/rokudogobu/tag2uti.git
