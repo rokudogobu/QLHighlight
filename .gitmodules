@@ -1,3 +1,9 @@
 [submodule "subs/highlightjs"]
 	path = subs/highlightjs
 	url = https://github.com/highlightjs/highlight.js.git
+[submodule "subs/highlightjs-line-numbers"]
+	path = subs/highlightjs-line-numbers
+	url = https://github.com/wcoder/highlightjs-line-numbers.js.git
+[submodule "subs/resetcss"]
+	path = subs/resetcss
+	url = https://gist.github.com/DavidWells/18e73022e723037a50d6
