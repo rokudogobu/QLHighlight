@@ -14,6 +14,7 @@
 		903CB99E22F710A50082DF29 /* highlight.pack.js in Resources */ = {isa = PBXBuildFile; fileRef = 903CB99D22F710A50082DF29 /* highlight.pack.js */; };
 		903CB9A022F710B30082DF29 /* highlightjs-line-numbers.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 903CB99F22F710B30082DF29 /* highlightjs-line-numbers.min.js */; };
 		903CB9A222F710CC0082DF29 /* reset.css in Resources */ = {isa = PBXBuildFile; fileRef = 903CB9A122F710CC0082DF29 /* reset.css */; };
+		903CB9A422F71B7A0082DF29 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 903CB9A322F71B7A0082DF29 /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		903CB99D22F710A50082DF29 /* highlight.pack.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = highlight.pack.js; path = subs/highlightjs/build/highlight.pack.js; sourceTree = SOURCE_ROOT; };
 		903CB99F22F710B30082DF29 /* highlightjs-line-numbers.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = "highlightjs-line-numbers.min.js"; path = "subs/highlightjs-line-numbers/dist/highlightjs-line-numbers.min.js"; sourceTree = SOURCE_ROOT; };
 		903CB9A122F710CC0082DF29 /* reset.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; name = reset.css; path = subs/resetcss/reset.css; sourceTree = SOURCE_ROOT; };
+		903CB9A322F71B7A0082DF29 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				903CB99F22F710B30082DF29 /* highlightjs-line-numbers.min.js */,
 				903CB99D22F710A50082DF29 /* highlight.pack.js */,
 				903CB99B22F710280082DF29 /* styles */,
+				903CB9A322F71B7A0082DF29 /* LICENSE */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				903CB9A022F710B30082DF29 /* highlightjs-line-numbers.min.js in Resources */,
 				903CB99E22F710A50082DF29 /* highlight.pack.js in Resources */,
 				903CB9A222F710CC0082DF29 /* reset.css in Resources */,
+				903CB9A422F71B7A0082DF29 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
