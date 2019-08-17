@@ -40,8 +40,6 @@ You can change the styles by executing following command:
 
     $ defaults write localhost.QLHighlight <key> -string <value>
 
-Also, you can change the styles by editing `~/Library/Preferences/localhost.QLHighlight.plist`.
-
 #### style keys
 
 The keys and default values are listed in tables below:
