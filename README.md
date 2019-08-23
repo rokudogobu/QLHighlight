@@ -38,7 +38,7 @@ You can add/delete file type by editing `Info.plist`.
 
 You can change the styles by executing following command:
 
-    $ defaults write localhost.QLHighlight <key> -string <value>
+    $ defaults write io.github.rokudogobu.QLHighlight <key> -string <value>
 
 #### style keys
 
@@ -67,7 +67,7 @@ The keys and default values are listed in tables below:
 The value of `style` is a css file name for highlight.js without extension.
 You can choose one from  `QLHighlight.qlgenerator/Contents/Resources/styles` ( same as `src/styles` of hightlight.js repository ), but a css which requires external image is not recommended.
 
-The value for other keys must be in CSS format.
+The value for other keys must be in CSS value format.
 Those values are copied into `<style>` of an internally generated html code.
 
 ## License

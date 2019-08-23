@@ -289,7 +289,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = QLHighlight/Info.plist;
 				INSTALL_PATH = /Library/QuickLook;
-				PRODUCT_BUNDLE_IDENTIFIER = localhost.QLHighlight;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.rokudogobu.QLHighlight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = qlgenerator;
 			};
@@ -302,7 +302,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = QLHighlight/Info.plist;
 				INSTALL_PATH = /Library/QuickLook;
-				PRODUCT_BUNDLE_IDENTIFIER = localhost.QLHighlight;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.rokudogobu.QLHighlight;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = qlgenerator;
 			};
