@@ -64,7 +64,7 @@ The keys and default values are listed in tables below:
 
 #### values for keys
 
-The value of `style` is a css file name for highlight.js without extension.
+The value of `style` is a css file name for highlight.js without file extension.
 You can choose one from  `QLHighlight.qlgenerator/Contents/Resources/styles` ( same as `src/styles` of hightlight.js repository ), but a css which requires external image is not recommended.
 
 The value for other keys must be in CSS value format.
